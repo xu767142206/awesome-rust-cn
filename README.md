@@ -16,7 +16,7 @@
 
 - [应用程序 Applications](#应用程序-applications)
   * [音频和音乐 Audio and Music](#音频和音乐-audio-and-music)
-  * [Cryptocurrencies Cryptocurrencies](#Cryptocurrencies-cryptocurrencies)
+  * [加密货币 Cryptocurrencies](#加密货币-cryptocurrencies)
   * [数据库 Database](#数据库-database)
   * [模拟器 Emulators](#模拟器-emulators)
   * [游戏 Games](#游戏-games)
