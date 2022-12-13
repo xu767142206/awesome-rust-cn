@@ -142,7 +142,7 @@
 * [shuttle](https://github.com/shuttle-hq/shuttle) — serverless平台建造的生锈
 * [SWC](https://github.com/swc-project/swc) — 超高速打印稿/ JavaScript编译器
 * [tiny](https://github.com/osa1/tiny) — 一个终端IRC客户端
-* [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [![Build Status](https://github.com/bluejekyll/trust-dns/workflows/test/badge.svg?branch=main)](https://github.com/bluejekyll/trust-dns/actions?query=workflow%3Atest)
+* [trust-dns](https://crates.io/crates/trust-dns) — 一个dns服务器 [![Build Status](https://github.com/bluejekyll/trust-dns/workflows/test/badge.svg?branch=main)](https://github.com/bluejekyll/trust-dns/actions?query=workflow%3Atest)
 * [wasmer](https://github.com/wasmerio/wasmer) — 安全、快速WebAssembly运行时支持WASI和Emscripten[![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 * [Weld](https://github.com/serayuzgur/weld) — 全假的REST API生成器[![build badge](https://api.travis-ci.org/serayuzgur/weld.svg?branch=master)](https://travis-ci.org/serayuzgur/weld)
 * [wezterm](https://github.com/wez/wezterm) — GPU-accelerated跨平台终端仿真器和多路复用器.
