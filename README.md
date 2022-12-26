@@ -118,6 +118,7 @@
 另见[Rust - Production](https://www.rust-lang.org/production)组织在生产中运行Rust.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 一个跨平台的GPU增强型终端仿真器.
+* [Arti](https://gitlab.torproject.org/tpo/core/arti) — Tor的实现，在Rust中。(到目前为止，它是一个不太完整的客户端，但请注意这个空间！) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 用rust编写的交互式汇编外壳.
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 一个用户空间WireGuard
   VPN的实施. [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
@@ -940,7 +941,7 @@
 
 另见 [Are we (I)DE yet?](https://areweideyet.com/) 和 [Rust Tools](https://www.rust-lang.org/tools).
 
-* [Atom](https://atom.io/)
+* [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
     * [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) — 生锈的IDE支持原子,由铁锈语言服务器(
       RLS)[![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://app.travis-ci.com/grust-lang/atom-ide-rust)
     * [Eclipse](https://www.eclipse.org/)
@@ -1723,9 +1724,7 @@
       —
       流处理/分布式计算平台 [![build badge](https://api.travis-ci.org/antimonyproject/antimony.svg?branch=master)](https://travis-ci.org/antimonyproject/antimony)
 * Apache Kafka
-    * [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)]
-      — [librdkafka](https://github.com/edenhill/librdkafka)
-      绑定 [![build badge](https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master)](https://travis-ci.org/fede1024/rust-rdkafka)
+    * [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka](https://github.com/confluentinc/librdkafka) 绑定 [![build badge](https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master)](https://travis-ci.org/fede1024/rust-rdkafka)
     * [gklijs/schema_registry_converter](https://github.com/gklijs/schema_registry_converter) [[schema_registry_converter](https://crates.io/crates/schema_registry_converter)]
       —
       以与 [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/) [![build badge](https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master)](https://travis-ci.org/gklijs/schema_registry_converter)
@@ -2056,6 +2055,7 @@
       FLTK锈绑定[![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
     * [flutter-rs](https://github.com/flutter-rs/flutter-rs) — 在飞镖建立颤振桌面应用程序
+    * [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) — 用于Flutter/Dart <-> Rust的高级内存安全绑定生成器
 * [fschutt/azul](https://github.com/fschutt/azul) — 免费、功能,IMGUI-oriented GUI桌面应用程序的快速开发框架编写的铁锈,Mozilla
   WebRender呈现引擎的支持。[![build badge](https://api.travis-ci.org/fschutt/azul.svg?branch=master)](https://travis-ci.org/fschutt/azul)
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
